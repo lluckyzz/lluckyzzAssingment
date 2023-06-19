@@ -14,7 +14,7 @@ Perform below operations:
 
 lst1=[]
 k=-1
-num=int(input("Enter the size of list : "))
+num=int(input("Enter the length of list : "))
 for i in range(num):
   k+=1
   print("Enter the no at index ",k,": ",end=" ")
@@ -64,7 +64,7 @@ print(lst1)#------------->>>>> throws - NameError: name 'lst1' is not defined
 
 # Output -------->>>
 """
-Enter the size of list : 5
+Enter the length of list : 5
 Enter the no at index  0 :  1
 Enter the no at index  1 :  223
 Enter the no at index  2 :  12
