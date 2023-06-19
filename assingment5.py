@@ -82,7 +82,7 @@ del lst1
 # print(lst1)#------------->>>>> throws - NameError: name 'lst1' is not defined
 
 
-print("\nIf we are trying to print after deleting the list \nthen it throws - NameError: name 'lst1' is not defined")
+print("If we are trying to print after deleting the list \nthen it throws - NameError: name 'lst1' is not defined")
 print("______________________________________________________\n\n")
 
 
@@ -135,7 +135,6 @@ ______________________________________________________
 
 _____________________________________________________
 |________________________del_________________________|
-
 If we are trying to print after deleting the list 
 then it throws - NameError: name 'lst1' is not defined
 ______________________________________________________
