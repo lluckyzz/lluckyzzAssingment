@@ -44,7 +44,7 @@ def ds_update():
 
 def applyingmeth():
     print("____________________________________________________________\n")
-    print("Applying some method in data structures ...")
+    print("Updating by using some method in data structures ...")
     print("____________________________________________________________\n")
     lst.append("class")
     print("\n--> appending the List : ",lst)
@@ -111,7 +111,7 @@ Set :  {'maaz', 98}
 Dictionary :  {'Roll no ': 98, 'Name ': 'maaz'}
 ____________________________________________________________
 
-Applying some method in data structures ...
+Updating by using some method in data structures ...
 ____________________________________________________________
 
 
