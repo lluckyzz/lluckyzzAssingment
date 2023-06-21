@@ -84,6 +84,7 @@ deletemeth()
 
 #----->>>> Output 
 """
+
 List :  [75, 'lucky'] 
 
 Tuple :  (75, 'lucky') 
