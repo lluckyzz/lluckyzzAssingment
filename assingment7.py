@@ -14,6 +14,7 @@ Note: Use try...except block with suitable exception class
 def fl(file="Information.txt"):
     f=open(file,"+at")
     f.writelines(["roll no : 75","\nName : Lucky","\nclass : Sycob"])
+    print("Reading the file ....\n")
     f.seek(0)
     try:
         print(f.readlines())
@@ -26,6 +27,10 @@ fl()
 # Output --->>> 
 """
 
-['roll no : 75\n', 'Name : Lucky\n', 'class : Sycob']
+
+Reading the file ....
+
+['roll no : 75\n', 'Name : Lucky\n', 'class : Sycobroll no : 75\n', 'Name : Lucky\n', 'class : Sycob']
+
 
 """
